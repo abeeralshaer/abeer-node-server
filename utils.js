@@ -1,7 +1,7 @@
 
 //utilities: General methodes throughout the website
 //The querystring module provides utilities for parsing and formatting URL query strings
-var qs = require('queryString');
+var qs = require('querystring');
 
 
 function parseBody(req,callback) {
